@@ -1,0 +1,57 @@
+{
+    "logo": "./shad.gif",
+    "sites": [
+        {
+            "key": "T4-heimuer",
+            "name": "黑木耳(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme?token=dca92fa0",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+{
+      "key": "py_liushoushaofu",
+      "name": "🤪 留守少妇(T4_Py)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/api?site=liushoushaofu“，
+      “可搜索”：0，
+      “快速搜索”：0，
+      “可过滤”：0，
+      “风格”： {
+        “类型”：“矩形”，
+        “比率”：1.33
+      }
+    }
+        {
+            "key": "T4-欧乐",
+            "name": "欧乐(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/olelive?token=dca92fa0",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/ub18?token=dca92fa0",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        }
+    ],
+    "lives": [
+        {
+            "name": "ETH(JS)",
+            "api": "https://tang.hz.cz/js/ethtv.js",
+            "type": 3,
+            "ua": "okhttp/4.12.0"
+        }
+    ],
+    "notice": "欢迎光临！ainiyixia ainiyixia"
+}
